@@ -1,0 +1,5 @@
+{ "orderId": 6, "amount": 600, "currency": "USD", "comment": "ожидание оплаты"}
+{ "orderId": 7, "amount": 700, "currency": "RUB", "comment": "оплата заказа"}
+{ "orderId": 8 }
+{ "orderId": 9, "amount": 900, "currency": "USD", "comment": "оплата заказа"}
+{ "orderId": 10, "amount": 900, }
